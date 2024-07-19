@@ -1,7 +1,7 @@
 <template lang="pug">
     div.section
         div.container
-            h2.title Portfolio
+            h2.title Portfolio 1
             div(v-if="items.length === 0")
                 div.content
                     p 
