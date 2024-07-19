@@ -17,7 +17,7 @@
                             action="SELL"
                             :onAction="sell"
                         )
-</template>
+</template> 
 
 <script>
 import { mapGetters, mapActions } from 'vuex';
