@@ -1,12 +1,12 @@
 <template lang="pug">
     div.section
         div.container
-            h2.title Portfolio 1
+            h2.title Portfolio
             div(v-if="items.length === 0")
                 div.content
                     p 
-                        | Esta es una prueba para crear una rama Hotfix y agregar cambios
-                        | Hello, You have no shares right now. Buy some on the 
+                        | Error de prueba número dos probando una rama de tipo bugfix
+                        |Hello, You have no shares right now. Buy some on the 
                         router-link(to="/stocks") market.
             div(v-else)
                 div.columns.is-multiline
