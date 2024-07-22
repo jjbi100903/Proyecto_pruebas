@@ -5,7 +5,7 @@
             div(v-if="items.length === 0")
                 div.content
                     p 
-                        | You have no shares right now. Buy some on the 
+                        | Hello, You have no shares right now. Buy some on the 
                         router-link(to="/stocks") market.
             div(v-else)
                 div.columns.is-multiline
