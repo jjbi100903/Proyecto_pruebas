@@ -4,7 +4,7 @@
             h2.title Home
             div.content
                 h3 Introduction
-                p Welcome to the Stock Trader! Here you can play around on the stock market and get a little bit of knowledge about what brokers are doing every day!
+                p Esta es una nueva introduccion para las pruebas de github colaborate en equipo DMI
                 h3 How to play
                 p 
                     | This is really easy. Just buy some stocks on the 
