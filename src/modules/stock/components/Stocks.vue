@@ -1,7 +1,7 @@
 <template lang="pug">
     div.section
         div.container
-            h2.title Stocks
+            h2.title Stocks Juanjo estuvo aqui...
             div.columns.is-multiline
                 div.column.is-half(v-for="asset in items")
                     asset(
